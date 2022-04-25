@@ -1,0 +1,18 @@
+body{
+     background-image:linear-gradient(rgb(255, 196, 230),rgb(241, 205, 161),rgb(196, 255, 228), rgb(196, 105, 134));
+}
+
+/* textarea{
+    left: px;
+}; */
+
+
+
+input{
+    top: 80px;
+    left: 100px ;
+    border-radius: 35%;
+    border-color: rgb(189, 0, 13);
+};
+
+

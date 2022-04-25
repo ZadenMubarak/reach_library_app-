@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+}
+
+.top{
+    background-color: darkcyan;
+    height:500px;
+}
+
+.top h1{
+    color: rgb(29, 29, 64);
+};
+h2{
+    color: rgb(29, 29, 64);
+};
+
+.top :hover{
+    height: 450px;
+    background-color: rgb(15, 151, 151);
+}
